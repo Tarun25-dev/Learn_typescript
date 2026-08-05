@@ -1,0 +1,1 @@
+let ar: Array<number> = [10,20,30];
