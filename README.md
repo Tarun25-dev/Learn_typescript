@@ -5,5 +5,8 @@ Completed a strong foundation in Typescript, building basic types, variables, ar
 # Typescript Imp Concepts:
 
 [1]. 
+
 [2].
+
 [3].
+
