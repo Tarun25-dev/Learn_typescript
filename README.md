@@ -4,9 +4,22 @@ Completed a strong foundation in Typescript, building basic types, variables, ar
 
 # Typescript Imp Concepts:
 
-[1]. 
+[1]. Basic Types
 
-[2].
+[2]. Type Inference 
 
-[3].
+[3]. Interfaces
 
+[4]. Type Aliases
+
+[5]. Union and intersection Types
+
+[6]. Functions and function Types
+
+[7]. Optional and readonly properties 
+
+[8]. Generic type
+
+[9]. Enums
+
+[10]. Type narraowing 
