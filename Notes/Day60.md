@@ -1,0 +1,1 @@
+day 60 file of typescript practice 
